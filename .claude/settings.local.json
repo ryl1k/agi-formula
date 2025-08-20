@@ -1,0 +1,23 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:chatgpt.com)",
+      "Bash(mkdir:*)",
+      "Bash(python tests:*)",
+      "Bash(python test_installation:*)",
+      "Bash(python:*)",
+      "WebSearch",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:arcprize.org)",
+      "Bash(move DEVELOPMENT_PLAN.md PHASE2_DEVELOPMENT_PLAN.md PHASE2_SPRINT3_PLAN.md SPRINT4_PRODUCTION_DEPLOYMENT.md answer.md architecture.md dev_files/)",
+      "Bash(mv:*)",
+      "Bash(rm:*)"
+    ],
+    "deny": [],
+    "ask": [],
+    "additionalDirectories": [
+      "E:\\mnt\\e\\repos",
+      "E:\\e\\repos"
+    ]
+  }
+}

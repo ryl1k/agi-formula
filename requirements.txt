@@ -1,0 +1,22 @@
+# Core dependencies for AGI-Formula
+numpy>=1.21.0
+scipy>=1.7.0
+
+# Optional dependencies (install as needed)
+# For PyTorch comparisons and benchmarks:
+# torch>=1.9.0
+# matplotlib>=3.3.0
+
+# For development:
+# pytest>=6.0
+# pytest-cov>=2.0
+# black>=21.0
+# flake8>=3.9
+
+# For GPU acceleration (optional):
+# cupy>=9.0.0
+
+# For visualizations (optional):
+# matplotlib>=3.4.0
+# plotly>=5.0.0
+# networkx>=2.6.0
