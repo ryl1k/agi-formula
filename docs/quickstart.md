@@ -12,7 +12,7 @@ Get up and running with AGI-Formula in minutes! This guide covers installation, 
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/agi-formula.git
+git clone https://github.com/ryl1k/agi-formula.git
 cd agi-formula
 
 # Install AGI-Formula
