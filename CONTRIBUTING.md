@@ -36,7 +36,7 @@ AGI-Formula is designed to advance artificial general intelligence through consc
 ```bash
 # Fork the repository on GitHub
 # Clone your fork
-git clone https://github.com/your-username/agi-formula.git
+git clone https://github.com/ryl1k/agi-formula.git
 cd agi-formula
 
 # Create virtual environment
